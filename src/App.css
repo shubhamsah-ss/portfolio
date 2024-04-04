@@ -1,0 +1,32 @@
+body {
+    background-color: #000;
+    color: #fff;
+    min-height: 100vh;
+}
+
+.gradient-text {
+    -webkit-background-clip: text;
+    @apply bg-gradient-to-t from-blue-500 to-cyan-500 text-transparent;
+}
+
+.running-text {
+    overflow: hidden;
+    animation: typing-text steps(40) 4s infinite, blink linear 0.7s infinite;
+    white-space: nowrap;
+    border-right: 2px solid #fff;
+    width: 1ch;
+    display: inline-block;
+}
+
+@keyframes typing-text {
+    from {
+        width: 0ch;
+    } to {
+        width: 18ch;
+    }
+}
+
+@keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: #fff; }
+}
