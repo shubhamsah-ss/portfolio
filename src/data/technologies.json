@@ -1,0 +1,38 @@
+[
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "HTML",
+        "proficiency": "3"
+    },
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "CSS, SASS",
+        "proficiency": "3"
+    },
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "JavaScript, JQuery",
+        "proficiency": "2"
+    },
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "BootStrap, TailwindCSS",
+        "proficiency": "3"
+    },
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "ReactJS",
+        "proficiency": "2"
+    },
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "NextJS",
+        "proficiency": "1"
+    },
+    {
+        "comment": "1. Beginner, 2. Intermediate, 3. Advanced",
+        "name": "UI design in Figma",
+        "proficiency": "1"
+    }
+]
+

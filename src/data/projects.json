@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Helping Knowledge World",
+        "description": "A fully responsive educational platform for information guidance regarding government examinations. HTML5, CSS3, TailwindCSS, NextJS",
+        "isLive": true,
+        "src": "src/assets/helping-knowledge-world.png",
+        "isAllowed": true,
+        "href": "https://helping-knowledge-world.vercel.app/",
+        "repositories": "https://github.com/shubhamsah-ss/helping-knowledge-world.git"
+    },
+    {
+        "name": "Devss store",
+        "description": "A online store with multi vendor  support. HTML, CSS, NextJS, TailwindCSS",
+        "isLive": true,
+        "src": "src/assets/devss-store.png",
+        "isAllowed": true,
+        "href": "",
+        "repositories": "https://github.com/shubhamsah-ss/devss-store.git"
+    },
+    {
+        "name": "CoinCRED Pro Exchange",
+        "description": "A fully responsive exchange platform for P2P and spot trading. HTML, CSS, TailwindCSS, MaterialUI, ReactJS. Cannot provide any links due to Non Disclosure Agreement.",
+        "isLive": false,
+        "src": "",
+        "href": "",
+        "isAllowed": false,
+        "repositories": "https://github.com/shubhamsah-ss/devss-store.git"
+    },
+    {
+        "name": "Gander Admin Panel",
+        "description": "A fully responsive admin panel for crypto coin, GanderCoin . HTML, CSS, MaterialUI, ReactJS. Cannot provide any links due to Non Disclosure Agreement.",
+        "isLive": false,
+        "src": "",
+        "href": "",
+        "isAllowed": false,
+        "repositories": "https://github.com/shubhamsah-ss/Gander-admin-frontend.git"
+    }
+]
