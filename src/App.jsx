@@ -1,9 +1,9 @@
 import "./App.css";
 import Projects from "./data/projects.json";
-import Profile from "./assets/photo.jpeg";
-import LinkedIn from "./assets/linkedin.svg";
-import NoImage from "./assets/no-image.png";
-import Github from "./assets/github-white.svg";
+import Profile from "/assets/photo.jpeg";
+import LinkedIn from "/assets/linkedin.svg";
+import NoImage from "/assets/no-image.png";
+import Github from "/assets/github-white.svg";
 import Technologies from "./data/technologies.json"
 import Additional from "./data/additionalSkills.json"
 import About from "./data/about.json"
@@ -158,7 +158,7 @@ function App() {
         {/* Additional skills section */}
         <section id="additional">
           <div className="container m-auto space-y-5">
-            <h2 className="font-semibold text-4xl mt-1 gradient-text h-12">
+            <h2 className="font-semibold text-4xl mt-1 gradient-text">
               Additional technologies and skills
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-10">
